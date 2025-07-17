@@ -16,7 +16,15 @@ With hands-on experience in machine learning, NLP, big data, and cloud platforms
 
 ---
 
+
 <h2>💼 Experience</h2>
+
+<h3>📊 Data Scientist — <i>Hexaware Technologies</i></h3>
+<b>🗓️ Oct 2023 – Present</b><br/>
+- Designed and implemented end-to-end data science solutions for client projects across retail and healthcare sectors.<br/>
+- Built predictive and prescriptive models using Python, XGBoost, and Scikit-learn.<br/>
+- Developed Power BI dashboards to deliver actionable insights to stakeholders.<br/>
+- Led the transition of models to production using Flask and Docker.<br/>
 
 <h3>🧪 Machine Learning Intern — <i>Hexaware Technologies</i></h3>
 <b>🗓️ Jan 2023 – Sept 2023</b><br/>
@@ -29,8 +37,6 @@ With hands-on experience in machine learning, NLP, big data, and cloud platforms
 - Created XGBoost models for patient risk prediction.<br/>
 - Hosted REST APIs on Heroku.<br/>
 - Improved model transparency using SHAP & LIME.<br/>
-
----
 
 <h2>🧰 Tech Toolbox</h2>
 
