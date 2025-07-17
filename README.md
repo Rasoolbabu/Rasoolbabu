@@ -20,7 +20,7 @@ With hands-on experience in machine learning, NLP, big data, and cloud platforms
 <h2>💼 Experience</h2>
 
 <h3>📊 Data Scientist — <i>Hexaware Technologies</i></h3>
-<b>🗓️ Jul 2022- Mar 2023 – Present</b><br/>
+<b>🗓️ Jul 2022 - Mar 2023 </b><br/>
 - Designed and implemented end-to-end data science solutions for client projects across retail and healthcare sectors.<br/>
 - Built predictive and prescriptive models using Python, XGBoost, and Scikit-learn.<br/>
 - Developed Power BI dashboards to deliver actionable insights to stakeholders.<br/>
@@ -28,7 +28,7 @@ With hands-on experience in machine learning, NLP, big data, and cloud platforms
 
 
 <h3>🏥 AI Intern – Healthcare Division — <i>Quick Med</i></h3>
-<b>🗓️ Oct 2021-Jun 2022</b><br/>
+<b>🗓️ Oct 2021 - Jun 2022</b><br/>
 - Created XGBoost models for patient risk prediction.<br/>
 - Hosted REST APIs on Heroku.<br/>
 - Improved model transparency using SHAP & LIME.<br/>
