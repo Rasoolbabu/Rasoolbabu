@@ -4,9 +4,7 @@
   Rasool Babu – AI & ML Engineer 🚀
 </h1>
 
-<p align="center">
-  <i>Turning data into intelligence, one model at a time.</i>
-</p>
+
 
 ---
 
@@ -89,7 +87,4 @@ RVR & JC College of Engineering, India
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasoolbabu&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolbabu&layout=compact&theme=tokyonight" width="47%"/>
-</p>
+
