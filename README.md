@@ -27,13 +27,13 @@ With hands-on experience in machine learning, NLP, big data, and cloud platforms
 - Led the transition of models to production using Flask and Docker.<br/>
 
 <h3>🧪 Machine Learning Intern — <i>Hexaware Technologies</i></h3>
-<b>🗓️ Jan 2023 – Sept 2023</b><br/>
+<b>🗓️ Jul 2022 – Mar 2023</b><br/>
 - Built predictive models for churn detection and sentiment analysis.<br/>
 - Automated feature engineering using PySpark.<br/>
 - Deployed Flask APIs with Jenkins CI pipelines.<br/>
 
 <h3>🏥 AI Intern – Healthcare Division — <i>Quick Med</i></h3>
-<b>🗓️ Summer 2022</b><br/>
+<b>🗓️ Oct 2021-Oct 2022</b><br/>
 - Created XGBoost models for patient risk prediction.<br/>
 - Hosted REST APIs on Heroku.<br/>
 - Improved model transparency using SHAP & LIME.<br/>
