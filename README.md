@@ -1,93 +1,95 @@
-👨‍💻 Rasool Babu – AI & ML Engineer 🚀
 
-Hi there! I'm **Rasool Babu**, a passionate AI/ML Engineer with a robust background in developing, deploying, and maintaining intelligent data-driven solutions. I specialize in building scalable machine learning models and big data pipelines that generate real-world impact.
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712104.png" width="45" style="vertical-align: middle;" />
+  Rasool Babu – AI & ML Engineer 🚀
+</h1>
+
+<p align="center">
+  <i>Turning data into intelligence, one model at a time.</i>
+</p>
+
+---
+
+<h2>🧠 About Me</h2>
+
+Hi there! I'm <b>Rasool Babu</b>, a passionate AI/ML Engineer with a robust background in developing, deploying, and maintaining intelligent data-driven solutions. I specialize in building scalable machine learning models and big data pipelines that generate real-world impact.
 
 With hands-on experience in machine learning, NLP, big data, and cloud platforms, I bridge the gap between data science and engineering to drive data-driven decision-making in production environments.
 
 ---
 
-### 💻 Technical Skills
+<h2>💼 Experience</h2>
 
-#### 🧑‍💻 Programming Languages
-Python, PySpark, SAS, MATLAB, Shell Scripting
+<h3>🧪 Machine Learning Intern — <i>Hexaware Technologies</i></h3>
+<b>🗓️ Jan 2023 – Sept 2023</b><br/>
+- Built predictive models for churn detection and sentiment analysis.<br/>
+- Automated feature engineering using PySpark.<br/>
+- Deployed Flask APIs with Jenkins CI pipelines.<br/>
 
-#### 📚 ML Frameworks & Libraries
-Scikit-learn, NumPy, Pandas, Matplotlib, SciPy, XGBoost
-
-#### 🤖 Machine Learning Techniques
-Regression, Classification, Clustering, KNN, SVM, Random Forest, Lasso, K-Means, Neural Networks
-
-#### 🧠 Natural Language Processing (NLP)
-TF-IDF, Regex, TextBlob, NLTK
-
-#### ⚙️ Big Data Ecosystem
-Hadoop, HDFS, Hive, Spark, Kafka, Pig, Sqoop, Flume, Storm, Drill, Zookeeper, Oozie
-
-#### 🚀 Model Deployment & MLOps
-Flask, REST APIs, Heroku, GitHub Actions, CI/CD
-
-#### 📊 Data Visualization
-Power BI, Tableau, Matplotlib
-
-#### 🗃️ Databases
-MySQL, PostgreSQL, Oracle, MongoDB, DB2, Teradata
-
-#### 🛠️ DevOps & Tools
-Git, Jenkins, Jupyter, Toad, IntelliJ, SQL Loader
-
-#### ☁️ Cloud Platforms & Operating Systems
-AWS (EC2, S3), UNIX, Linux, Windows, macOS
-
-#### 🔐 Data Governance & Quality
-Collibra, Great Expectations, Metadata Management, Data Lineage
+<h3>🏥 AI Intern – Healthcare Division — <i>Quick Med</i></h3>
+<b>🗓️ Summer 2022</b><br/>
+- Created XGBoost models for patient risk prediction.<br/>
+- Hosted REST APIs on Heroku.<br/>
+- Improved model transparency using SHAP & LIME.<br/>
 
 ---
 
-### 🧪 Projects
+<h2>🧰 Tech Toolbox</h2>
 
-- **🚧 Smart Obstacle Detection Sensor**  
-  Developed a real-time obstacle detection system using ultrasonic and IR sensors with Arduino for enhanced mobility aids.
-
-- **🧬 Disease Prediction Model**  
-  Built ML models to predict diseases based on symptoms, using pandas, scikit-learn, and cross-validation for performance tuning.
-
-- **📈 Stock Price Forecasting (LSTM)**  
-  Created a deep learning model using LSTM to forecast future stock prices based on historical trends.
-
-- **💬 University Q&A Chatbot (NLP)**  
-  Built an intelligent chatbot with TensorFlow and spaCy for answering student queries based on academic documentation.
-
-- **📊 Sales Dashboard (Power BI)**  
-  Designed an interactive sales report using Power BI to track KPIs, regional trends, and category performance.
+<table>
+<tr><td><b>Languages</b></td><td>Python, PySpark, SAS, MATLAB, Shell Scripting</td></tr>
+<tr><td><b>ML Libraries</b></td><td>scikit-learn, XGBoost, Pandas, NumPy, Matplotlib</td></tr>
+<tr><td><b>Big Data</b></td><td>Hadoop, Hive, Spark, Kafka, Pig, Flume, Oozie</td></tr>
+<tr><td><b>Databases</b></td><td>MySQL, PostgreSQL, Oracle, MongoDB, DB2, Teradata</td></tr>
+<tr><td><b>Cloud & OS</b></td><td>AWS (EC2, S3), UNIX, Linux, macOS, Windows</td></tr>
+<tr><td><b>NLP</b></td><td>TF-IDF, Regex, TextBlob, NLTK</td></tr>
+<tr><td><b>Deployment</b></td><td>Flask, REST APIs, Heroku, GitHub Actions</td></tr>
+<tr><td><b>Visualization</b></td><td>Power BI, Tableau, Matplotlib</td></tr>
+<tr><td><b>DevOps</b></td><td>Git, Jenkins, Jupyter, IntelliJ, SQL Loader</td></tr>
+<tr><td><b>Governance</b></td><td>Collibra, Great Expectations, Data Lineage</td></tr>
+</table>
 
 ---
 
-### 🎓 Education
+<h2>🚀 Highlight Projects</h2>
 
-- 🎓 Master of Science in **Information Systems**  
-  *Saint Louis University, USA*
-
-- ⚡ Bachelor of Technology in **Electrical & Electronics Engineering**  
-  *RVR & JC College of Engineering, India*
-
----
-
-### 🌱 Current Learning Goals
-
-- Dive deeper into **Deep Learning & Transformer Architectures**
-- Master **MLOps** for production-scale deployment and automation
-- Explore **Explainable AI (XAI)** and **Responsible ML**
-- Contribute to **Open Source AI & Data Projects**
+- 🔍 <b>Smart Obstacle Detection Sensor</b> – Real-time object detection system with Arduino.<br/>
+- 🧬 <b>Disease Prediction Model</b> – ML model using symptoms for classification.<br/>
+- 📈 <b>Stock Price Forecasting</b> – LSTM-based model using historical trends.<br/>
+- 💬 <b>University Q&A Chatbot</b> – NLP-powered bot built with TensorFlow & spaCy.<br/>
+- 📊 <b>Interactive Sales Dashboard</b> – Built dynamic reports using Power BI.<br/>
 
 ---
 
-### 📫 Connect with Me
+<h2>🎓 Education</h2>
 
-- 📧 Email: rasoolbabuyarava6@gmail.com  
-- 📱 Phone: +1 (314) 500-3775  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Update your actual profile link)*  
-- 💻 [Portfolio](https://your-portfolio-link.com) *(Optional)*  
+🎓 <b>M.S. in Information Systems</b><br/>
+Saint Louis University, USA<br/><br/>
+⚡ <b>B.Tech in Electrical & Electronics Engineering</b><br/>
+RVR & JC College of Engineering, India
 
 ---
 
-_“Turning data into intelligence, one model at a time.”_
+<h2>🌱 Current Learning Goals</h2>
+
+- Dive deeper into <b>Transformer Architectures & LLMs</b><br/>
+- Learn <b>MLOps</b> (CI/CD, model monitoring, model registry)<br/>
+- Explore <b>Explainable AI (XAI)</b> & <b>Responsible AI</b><br/>
+- Contribute to <b>Open Source AI Projects</b><br/>
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="mailto:rasoolbabuyarava6@gmail.com"><img src="https://img.shields.io/badge/Email-rasoolbabuyarava6@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=githubpages"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rasoolbabu&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolbabu&layout=compact&theme=tokyonight" width="47%"/>
+</p>
