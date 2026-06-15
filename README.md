@@ -1,96 +1,68 @@
 # Hi, I'm Rasool Babu Yarava 👋
 
-## Software Engineer | Python Developer | Data Engineer
+Senior Python Backend Engineer | FastAPI | AWS | Data Engineering | AI/ML Solutions
 
-I'm a Software Engineer pursuing a Master's in Information Systems at Saint Louis University. I specialize in building scalable backend systems, cloud-native data pipelines, and database-driven applications.
+Building scalable backend systems, cloud-native data pipelines, distributed applications, and AI-powered services.
 
-### Technical Skills
+## Professional Experience
 
-#### Programming Languages
+### Wells Fargo | Python Developer (React & AI Tools)
+📍 San Francisco, CA | May 2025 – Jan 2026
 
-* Python
-* SQL
-* JavaScript
+- Built scalable Python backend services and internal engineering frameworks.
+- Developed automated testing pipelines using PyTest, Docker, and CI/CD.
+- Designed high-throughput API services supporting financial systems.
+- Implemented infrastructure automation using Terraform and cloud technologies.
+- Developed AI-enabled backend services using LLMs, RAG pipelines, and REST APIs.
+- Led backend engineering initiatives and code quality improvements across distributed teams.
 
-#### Backend Development
+### Hexaware Technologies | Python Software Engineer
+📍 Chennai, India | Jul 2022 – Jul 2023
 
-* FastAPI
-* Flask
-* REST APIs
-* Microservices
+- Developed Python Flask microservices and REST APIs.
+- Built cloud infrastructure automation and deployment pipelines.
+- Implemented CI/CD workflows using Jenkins and GitHub Actions.
+- Worked with AWS services, Docker, SQL databases, and Linux environments.
+- Developed automated testing and validation frameworks for enterprise applications.
 
-#### Cloud & DevOps
+### Lupin Pharmaceuticals | Software Engineer
+📍 Bengaluru, India | Jun 2019 – Jun 2022
 
-* AWS Lambda
-* AWS S3
-* GitHub Actions
-* CI/CD Pipelines
-* Docker
-
-#### Data Engineering
-
-* ETL Pipelines
-* Data Modeling
-* Data Analysis
-* Database Design
-* Data Warehousing
-
-#### Databases
-
-* MySQL
-* PostgreSQL
-* SQL Server
-* Snowflake
-
----
+- Developed Python Flask applications and RESTful APIs for healthcare systems.
+- Designed PostgreSQL database schemas and optimized SQL queries.
+- Built ETL workflows and data ingestion pipelines.
+- Developed automation scripts and backend support tools.
+- Implemented testing, monitoring, and production support processes.
 
 ## Featured Projects
 
-### Supply Chain Optimization Platform
+### 🚚 Sysco Supply Chain Optimization
+Power BI, SQL, Data Modeling, Business Analytics
 
-* Developed a business intelligence solution for supply chain optimization.
-* Built dashboards using Power BI and SQL.
-* Improved inventory visibility and operational efficiency.
+- Developed a supply chain optimization platform.
+- Designed reporting dashboards and KPI monitoring solutions.
+- Improved inventory visibility and business decision-making.
 
-### Full Stack E-Commerce Platform
+### 🛒 Full Stack E-Commerce Platform
+React, Node.js, Express, MongoDB
 
-* Built a full-stack application using React, Node.js, Express, and MongoDB.
-* Implemented product management, shopping cart, order processing, and REST APIs.
+- Built a complete e-commerce application.
+- Implemented authentication, shopping cart, order management, and REST APIs.
+- Developed integration testing and backend services.
 
-### Advanced Software Development Portfolio
+### 🗄️ Database Management and Analytics
+SQL, MySQL, Python, Jupyter Notebook
 
-* Software architecture and design principles.
-* Agile methodologies.
-* CI/CD pipeline design.
-* Software quality assurance.
+- Implemented database normalization (1NF, 2NF, 3NF).
+- Designed ER diagrams and relational schemas.
+- Developed SQL queries, views, joins, and analytical reports.
 
-### Database Management and Analytics
+### ⚙️ Advanced Software Development
+Software Engineering, Agile, CI/CD
 
-* Database normalization (1NF, 2NF, 3NF).
-* ER modeling.
-* SQL development and analytics.
-* Jupyter Notebook data analysis projects.
-
----
-
-## Currently Interested In
-
-* Python Backend Engineering
-* Data Engineering
-* Cloud Computing
-* Healthcare Technology
-* Distributed Systems
-
----
-
-## Education
-
-**Master of Science in Information Systems**
-Saint Louis University
-
----
-
-## Connect With Me
+- Applied Scrum and XP methodologies.
+- Studied SOLID principles and design patterns.
+- Designed CI/CD architectures and software quality frameworks.
 
 * GitHub: https://github.com/Rasoolbabu
 * LinkedIn: https://www.linkedin.com/in/rasool-yarava-bb3b00339/
