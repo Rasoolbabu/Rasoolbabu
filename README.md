@@ -93,4 +93,4 @@ Saint Louis University
 ## Connect With Me
 
 * GitHub: https://github.com/Rasoolbabu
-* LinkedIn: Add your LinkedIn URL here
+* LinkedIn: https://www.linkedin.com/in/rasool-yarava-bb3b00339/
